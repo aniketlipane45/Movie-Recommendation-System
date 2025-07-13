@@ -25,8 +25,7 @@ movie-recommender/
 ├── model.py                 # Core ML logic (loads pickled model)
 ├── train\_model.py           # (Optional) Script to retrain model and regenerate .pkl files
 ├── movies.csv               # Movie metadata dataset
-├── tfidf\_vectorizer.pkl     # Saved vectorizer (used in production)
-├── similarity.pkl           # Saved similarity matrix
+├── 
 │
 ├── templates/
 │   ├── index.html           # Input form (homepage)
