@@ -16,8 +16,7 @@ It uses a **Content-Based Filtering** approach (no user ratings required).
 
 
 ## 📁 Project Structure
-
-```
+<pre>
 
 movie-recommender/
 │
@@ -36,7 +35,7 @@ movie-recommender/
 │
 └── README.md                # Project documentation (this file)
 
-````
+</pre>
 
 
 
